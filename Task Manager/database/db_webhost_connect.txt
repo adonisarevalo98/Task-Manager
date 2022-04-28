@@ -1,0 +1,7 @@
+Host name: 'sql300.epizy.com',
+
+Db name:'epiz_30387519_epes_db'
+
+Db user:'epiz_30387519',
+
+Db password: '9LwKw8d7aPTbuo',
